@@ -12,4 +12,4 @@ An open source archive for informative &amp; awesome tweets across various field
 <br />
 <br />
 <br />
-Would you like to have your tweets archived? Join the waiting list.
+Would you like to have your tweets archived? Join the (https://docs.google.com/forms/d/e/1FAIpQLSezJwN6yQaDrfWd1cUUNjOgW9MbYnIUl87UeKxhZIqWupjG2g/viewform?usp=sf_link)[waiting list]
